@@ -6,7 +6,7 @@
   
 **INSPECTING THE PAGE'S HTML IS OUTSIDE OF THE SCOPE OF THIS CTF**
 ### Hints
-- Check Instagram
+- Check Instagram using . between his name
 ### Course Concepts
 - OSINT
 ### Here is the link to start
