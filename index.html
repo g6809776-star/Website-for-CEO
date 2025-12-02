@@ -27,8 +27,8 @@
     let attempts = 0;
 
     // Replace these placeholder values locally
-    const correctUser = "USERNAME_PLACEHOLDER";
-    const correctPass = "PASSWORD_PLACEHOLDER";
+    const correctUser = "GSmithCEO";
+    const correctPass = "28FebruaryJenMayoFoot";
 
     form.addEventListener('submit', function(event) {
       event.preventDefault();
@@ -41,9 +41,9 @@
       } else {
         attempts++;
         if (attempts === 3) {
-          message.textContent = "Hint: (birthday, daughter’s name, hometown, meaning of Tattoo)";
+          message.textContent = "Hint: Username is GSmithCEO";
         } else if (attempts === 4) {
-          message.textContent = "My name is [Your Name]";
+          message.textContent = "Password is: (birthday(day then month), daughter’s name, hometown, actual meaning of Tattoo)";
         } else {
           message.textContent = "Incorrect credentials. Attempt " + attempts + " of 4.";
         }
