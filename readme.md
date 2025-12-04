@@ -4,7 +4,7 @@
 - The goal is to correctly guess the password.
 - OSINT, CTF
   
-****INSPECTING THE PAGE'S HTML IS OUTSIDE OF THE SCOPE OF THIS CTF**
+###  **INSPECTING THE PAGE'S HTML IS OUTSIDE OF THE SCOPE OF THIS CTF**
 ### Hints
 - Check Instagram
 ### Course Concepts
